@@ -36,3 +36,5 @@ Sesión 07
 
 ### Contacto
 Ante cualquier duda o problema contactarme a través del correo reinaldo.pacheco@usach.cl
+
+#### Última Actualización 13/11/2024
